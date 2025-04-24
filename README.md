@@ -14,4 +14,7 @@
 
 В браузере можем наблюдать следующее:
 
-![alt text](capture_20250417145609094.bmp)![alt text](capture_20250417145618976.bmp)
+![alt text](capture_20250417145609094.bmp)
+
+Радио:
+![alt text](capture_20250417145618976.bmp)
